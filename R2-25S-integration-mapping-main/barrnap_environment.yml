@@ -1,0 +1,10 @@
+name: barrnap_workflow
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python=3.9
+  - barrnap=0.9
+  - hmmer=3.1b2
+  - bedtools
+  - biopython
