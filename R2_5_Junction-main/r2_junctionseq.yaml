@@ -1,0 +1,16 @@
+name: r2_junctionseq
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - cutadapt
+  - biopython
+  - regex
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - ipykernel
